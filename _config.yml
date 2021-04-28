@@ -1,7 +1,7 @@
 menu:
     Blog: /
-    GitHub: https://github.com/claymcleod
-    Archive: archives/
+    # GitHub: https://github.com/claymcleod
+    # Archive: archives/
     Feed: atom.xml
 
 favicon: favicon.png
@@ -15,7 +15,7 @@ disqus:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
-startyear: 2019
+startyear: 2020
 
 # Image Credits
 enable_image_credit: true 
